@@ -14,8 +14,7 @@ build/
 *.cfg
 *.log
 *.mono/
-*.tres
-*.tscn
+
 
 # Archivos específicos de Godot
 *.pck
